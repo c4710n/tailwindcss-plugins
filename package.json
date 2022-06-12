@@ -1,0 +1,23 @@
+{
+  "name": "tailwindcss-plugins",
+  "version": "1.0.0",
+  "description": "A collection of TailwindCSS plugins.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/c4710n/tailwindcss-plugins.git"
+  },
+  "author": "c4710n",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/c4710n/tailwindcss-plugins/issues"
+  },
+  "homepage": "https://github.com/c4710n/tailwindcss-plugins#readme",
+  "dependencies": {
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.2"
+  }
+}
